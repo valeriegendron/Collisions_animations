@@ -1,4 +1,4 @@
-# RING
+# Collisions_animations
 Animations of collisions between a target galaxy and an impactor.
 
 The name of the files contains the following information:
